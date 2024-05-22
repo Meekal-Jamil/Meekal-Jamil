@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meekal Jamil</h1>
 <h3 align="center">BSCS | Web Enthusiast | Learner</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meekal-Jamil&label=Profile%20views&color=0e75b6&style=flat" alt="meekaljamil" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
